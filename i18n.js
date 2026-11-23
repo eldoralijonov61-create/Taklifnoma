@@ -49,7 +49,7 @@
 
   const uz = {
     lang_name: 'O‘zbekcha', lang_code: 'UZ', html_lang: 'uz', map_lang: 'uz_UZ',
-    doc_title: 'Jasurbek va Nargizaning nikoh to‘yiga taklifnoma',
+    doc_title: 'Jasurbek va Nargizaxonning nikoh to‘yiga taklifnoma',
     skip: 'Taklifnomaga o‘tish',
     lang_aria: 'Tilni tanlash',
     gate_kicker: 'NIKOH TO‘YIGA TAKLIFNOMA',
@@ -97,7 +97,7 @@
 
   const ru = {
     lang_name: 'Русский', lang_code: 'RU', html_lang: 'ru', map_lang: 'ru_RU',
-    doc_title: 'Приглашение на свадьбу Жасурбека и Наргизы',
+    doc_title: 'Приглашение на свадьбу Жасурбека и Наргизахон',
     skip: 'Перейти к приглашению',
     lang_aria: 'Выбор языка',
     gate_kicker: 'ПРИГЛАШЕНИЕ НА СВАДЬБУ',

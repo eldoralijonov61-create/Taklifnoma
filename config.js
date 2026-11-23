@@ -7,7 +7,7 @@
  * **...** — qalin yozuv.
  */
 window.INVITATION = {
-  date: "2026-11-28",            // YYYY-MM-DD
+  date: "2026-11-29",            // YYYY-MM-DD
   tz: "+05:00",                  // O‘zbekiston vaqti
   phone: "",                     // masalan "+998901234567" — bo‘sh bo‘lsa tugma ko‘rinmaydi
   defaultLang: "uz",
@@ -65,13 +65,13 @@ window.INVITATION = {
   text: {
     /* ================= O‘ZBEKCHA (LOTIN) ================= */
     uz: {
-      groom: "Jasurbek Nematov va Nargiza",
-      hero: { lead: "Farzandlarimiz", name: "JASURBEK VA NARGIZANING", names: ["JASURBEK", "NARGIZANING"], and: "va", title: "nikoh ayyomiga marhamat!", verse: ["Bu kunning fayzi — diydoringiz,", "eng aziz to‘yonasi — duolaringiz."] },
+      groom: "Jasurbek Nematov va Nargizaxon",
+      hero: { lead: "Farzandlarimiz", name: "JASURBEK VA NARGIZAXONNING", names: ["JASURBEK", "NARGIZAXONNING"], and: "va", title: "nikoh ayyomiga marhamat!", verse: ["Bu kunning fayzi — diydoringiz,", "eng aziz to‘yonasi — duolaringiz."] },
       parents: "Nematovlar oilasi",
       signOff: "Hurmat va ehtirom ila,",
       venue: {
-        name: "Oqsaroy", city: "Qo‘qon shahri",
-        address: "Farg‘ona viloyati, Qo‘qon shahri, «Oqsaroy» tantanalar saroyi",
+        name: "Oqsaroy", city: "Bag‘dod tumani",
+        address: "Farg‘ona viloyati, Bag‘dod tumani, «Oqsaroy» tantanalar saroyi",
         landmark: ""             // mo‘ljal bo‘lsa yozing
       },
       quran: {
@@ -87,7 +87,7 @@ window.INVITATION = {
         short: "Erkaklar", label: "Erkaklar uchun", event: "Xatmi Qur’on",
         greeting: "Assalomu alaykum, muhtaram azizlar!",
         invitation: [
-          "28-noyabr kuni «Oqsaroy»da bo‘ladigan **Jasurbek Nematov va Nargizaning nikoh to‘yiga** taklif etamiz. Kuyov tomoni va kelin tomonining xatmi Qur’oni **08:00** da boshlanadi.",
+          "29-noyabr kuni «Oqsaroy»da bo‘ladigan **Jasurbek Nematov va Nargizaxonning nikoh to‘yiga** taklif etamiz. Kuyov tomoni va kelin tomonining xatmi Qur’oni **08:00** da boshlanadi.",
           "Ushbu saodatli kunda quvonchimizga sherik, farzandlarimizning baxt-u iqboliga duogo‘y bo‘ling."
         ],
         hadiths: [
@@ -115,7 +115,7 @@ window.INVITATION = {
         choiceSummary: "Kelin tomoni 10:00 · Kuyov tomoni 12:00",
         greeting: "Muhtarama onaxonlar, aziz opa-singillar!",
         invitation: [
-          "28-noyabr kuni «Oqsaroy»da bo‘ladigan **Jasurbek Nematov va Nargizaning nikoh to‘yiga** taklif etamiz. Ayollar davrasi kelin tomonida **10:00** da, kuyov tomonida **12:00** da boshlanadi. **Kelin tushdi 13:00** da bo‘ladi.",
+          "29-noyabr kuni «Oqsaroy»da bo‘ladigan **Jasurbek Nematov va Nargizaxonning nikoh to‘yiga** taklif etamiz. Ayollar davrasi kelin tomonida **10:00** da, kuyov tomonida **12:00** da boshlanadi. **Kelin tushdi 13:00** da bo‘ladi.",
           "Ushbu saodatli kunda quvonchimizga sherik, farzandlarimizning baxt-u iqboliga duogo‘y bo‘ling."
         ],
         hadiths: [
@@ -148,14 +148,14 @@ window.INVITATION = {
 
     /* ================= РУССКИЙ ================= */
     ru: {
-      groom: "Жасурбека Нематова и Наргизы",
-      groomNom: "Жасурбек и Наргиза",           // pastki yozuv uchun (bosh kelishik)
-      hero: { lead: "Свадьба наших детей", name: "ЖАСУРБЕКА И НАРГИЗЫ", names: ["ЖАСУРБЕКА", "НАРГИЗЫ"], and: "и", title: "добро пожаловать!", verse: ["Благодать этого дня — ваше присутствие,", "самый дорогой подарок — ваши молитвы."] },
+      groom: "Жасурбека Нематова и Наргизахон",
+      groomNom: "Жасурбек и Наргизахон",           // pastki yozuv uchun (bosh kelishik)
+      hero: { lead: "Свадьба наших детей", name: "ЖАСУРБЕКА И НАРГИЗАХОН", names: ["ЖАСУРБЕКА", "НАРГИЗАХОН"], and: "и", title: "добро пожаловать!", verse: ["Благодать этого дня — ваше присутствие,", "самый дорогой подарок — ваши молитвы."] },
       parents: "Семья Нематовых",
       signOff: "С уважением и почтением,",
       venue: {
-        name: "Оксарой", city: "г. Коканд",
-        address: "Ферганская область, г. Коканд, дворец торжеств «Оксарой»",
+        name: "Оксарой", city: "Багдадский район",
+        address: "Ферганская область, Багдадский район, дворец торжеств «Оксарой»",
         landmark: ""
       },
       quran: {
@@ -171,7 +171,7 @@ window.INVITATION = {
         short: "Мужчины", label: "Для мужчин", event: "Хатм Корана",
         greeting: "Ассаляму алейкум, уважаемые!",
         invitation: [
-          "Приглашаем вас на **свадьбу Жасурбека Нематова и Наргизы** 28 ноября в зале «Оксарой». Хатм Корана со стороны жениха и со стороны невесты начнётся в **08:00**.",
+          "Приглашаем вас на **свадьбу Жасурбека Нематова и Наргизахон** 29 ноября в зале «Оксарой». Хатм Корана со стороны жениха и со стороны невесты начнётся в **08:00**.",
           "Разделите нашу радость в этот счастливый день и помолитесь за счастье наших детей."
         ],
         hadiths: [
@@ -199,7 +199,7 @@ window.INVITATION = {
         choiceSummary: "Сторона невесты 10:00 · Сторона жениха 12:00",
         greeting: "Уважаемые мамы, дорогие сёстры!",
         invitation: [
-          "Приглашаем вас на **свадьбу Жасурбека Нематова и Наргизы** 28 ноября в зале «Оксарой». Женское торжество со стороны невесты начнётся в **10:00**, со стороны жениха — в **12:00**. Встреча невесты — в **13:00**.",
+          "Приглашаем вас на **свадьбу Жасурбека Нематова и Наргизахон** 29 ноября в зале «Оксарой». Женское торжество со стороны невесты начнётся в **10:00**, со стороны жениха — в **12:00**. Встреча невесты — в **13:00**.",
           "Разделите нашу радость в этот счастливый день и помолитесь за счастье наших детей."
         ],
         hadiths: [
